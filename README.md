@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swarnika Shakya.
 - 👀 I’m interested in web designing, blogs, poem/song writing and digital art.
-- 🌱 I’m currently learning Laravel and developing mobile application.
+- 🌱 I’m currently learning to develop mobile application.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @shakyaswarnika on IG
 
